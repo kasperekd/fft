@@ -1,4 +1,4 @@
-// socket_lib.c
+// my_socket.c
 #include "my_socket.h"
 
 #include <stdio.h>
